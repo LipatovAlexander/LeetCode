@@ -1,5 +1,6 @@
-﻿namespace LeetCode.MiddleOfTheLinkedList;
+﻿namespace LeetCode._876._Middle_of_the_Linked_List;
 
+// https://leetcode.com/problems/middle-of-the-linked-list
 public class Solution
 {
     public ListNode MiddleNode(ListNode head)

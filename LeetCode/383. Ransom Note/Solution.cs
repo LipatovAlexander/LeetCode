@@ -1,5 +1,6 @@
-﻿namespace LeetCode.RansomNote;
+﻿namespace LeetCode._383._Ransom_Note;
 
+// https://leetcode.com/problems/ransom-note
 public class Solution
 {
     public bool CanConstruct(string a, string b)

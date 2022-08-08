@@ -1,7 +1,8 @@
 ﻿using System.Text;
 
-namespace LeetCode.FizzBuzz;
+namespace LeetCode._412._Fizz_Buzz;
 
+// https://leetcode.com/problems/fizz-buzz
 public class Solution
 {
     public IList<string> FizzBuzz(int n)
